@@ -1,0 +1,14 @@
+This is the first vi file ever created by steve276.
+02-11-2020
+Let's have some fun!
+
+The I-O table is disaggregated at the 6-digit NAICS
+code level. This means the data is grouped into 52
+regions and further subdivided into 1057 sectors
+per region.
+
+The waste I-O method can be used to discard data
+entries that represent non-physical flows
+and further disaggregate a sector into the portion
+that is exchanged as a commodity and the portion that
+exits the network as waste.
