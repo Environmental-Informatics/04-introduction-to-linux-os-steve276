@@ -1,0 +1,13 @@
+
+Anne mangoes 7
+Betty limes 14
+Fred apples 20
+Greg pineapples 3
+Lisa peaches 7
+Mark grapes 39
+Mark watermellons 12
+Oliver rockmellons 2
+Robert pears 4
+Susy oranges 12
+Susy oranges 5
+Terry oranges 9
